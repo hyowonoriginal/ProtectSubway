@@ -1,10 +1,10 @@
 # ProtectSubway
-![notion](https://www.notion.so/b72061214f3343f193e03cda65a7edf8?pvs=4)
+[notion](https://www.notion.so/b72061214f3343f193e03cda65a7edf8?pvs=4)
 2023년 광진구 빅데이터 공모전 참가작
 
 ## Data
-- 공공데이터포털에서 ![역별 od (origin-destination)데이터](https://www.data.go.kr/data/15113638/fileData.do) 활용.
-- ![2, 5, 7, 8호선 지하철 역 정보 데이터](https://www.data.go.kr/data/15041808/fileData.do) 활용
+- 공공데이터포털에서 [역별 od (origin-destination)데이터](https://www.data.go.kr/data/15113638/fileData.do) 활용.
+- [2, 5, 7, 8호선 지하철 역 정보 데이터](https://www.data.go.kr/data/15041808/fileData.do) 활용
 
 ## 상위 10개 승차역과 상하행 하차인원
 - 지하철 역별 od 데이터 이용하여 광진구 내 역을 하차역으로 설정. 각 하차역별 상위 10 개 승차역과 그
